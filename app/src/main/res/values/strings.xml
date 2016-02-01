@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">qliang-FuelTrack</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view">ViewActivity</string>
+
+    <string name="station">station(in textual, e.g., Costco)</string>
+    <string name="odometer_reading">odometer(in km, numeric to 1 decimal place)</string>
+    <string name="fuel_grade">fuel grade(textual, e.g., regular</string>
+    <string name="fuel_amount">fuel amount(numeric to 3 decimal places)</string>
+    <string name="fuel_unit_cost">fuel unit cost(in cents per L, numeric to 1 decimal place)</string>
+    <string name="cost">cost(in dollars, to 2 decimal places)</string>
+
+    <string name="title_activity_new_entry">Add new ride</string>
+    <string name="title_activity_show_all_entries">Show all rides</string>
+    <string name="entry_button_text">Add a new Entry</string>
+    <string name="all_entries_button_text">View Log Entries</string>
+    <string name="reset">Reset</string>
+    <string name="license_helper_text">You can fill in the license plate of your current vehicle here</string>
+    <string name="license_hint_text">License plate of the vehicle</string>
+    <string name="driven_kilometers_helper_text">The amount of driven kilometres on your current tank</string>
+    <string name="driven_kilometers_hint_text">Amount of driven kilometres</string>
+    <string name="total_liters_helper_text">Total amount of litres</string>
+    <string name="total_liters_hint_text">Litres of fuel</string>
+    <string name="total_cost_helper_text">Total costs for your refueling</string>
+    <string name="total_price_hint_text">Total price</string>
+    <string name="date_helper_text">Date</string>
+    <string name="date_hint_text">Date</string>
+    <string name="date_small_helper_text">Tap twice for a calendar</string>
+    <string name="save_entry_button_text">Confirm new refueling</string>
+    <string name="back_button_text">back</string>
+    <string name="delete_confirmation_question">Are you sure you want to delete everything?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="new_item_added">New item has been added</string>
+    <string name="field_must_be_filled">This field cannot be left empty</string>
+    <string name="license">Licenseplate</string>
+    <string name="date">date(yyyy-mm-dd format, e.g., 2016-01-18)</string>
+    <string name="consumption">Consumption</string>
+    <string name="title_activity_show_details">Show details</string>
+    <string name="no_items_string">No items (yet)</string>
+    <string name="delete_button_text">Delete</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_add">AddActivity</string>
+
+    <string name="hello">Add new data:</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+</resources>
